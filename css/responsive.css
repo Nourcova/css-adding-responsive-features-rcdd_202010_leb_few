@@ -23,11 +23,9 @@
   }
   .col-3 p{
   column-rule: 1px dotted #ccc;
-  -moz-column-gap: 1.5em;
-  -webkit-column-gap: 1.5em;
+
   column-gap: 1.5em;
-  -moz-column-count: 3;
-  -webkit-column-count: 3;
-  column-count: 3;
+
+  column-count: 2;
   }
 }
